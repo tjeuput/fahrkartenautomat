@@ -62,7 +62,7 @@ Das Fahrkartenautomat-Projekt ist eine Desktop-Anwendung, die mit Python und der
     ```
 2. **Die Anwendung starten**:
     ```sh
-    python app.py
+    python main.py
     ```
 
 ## Benutzerinteraktionsablauf
